@@ -7,7 +7,7 @@ import {
   Youtube,
   Instagram,
 } from "../common/BrandIcons";
-import avatar from "../../assets/Avatar-ram.png";
+import avatar from "../../assets/avatar-ram.png";
 
 const Sidebar = () => {
   const [isOpen, setIsOpen] = useState(false);
